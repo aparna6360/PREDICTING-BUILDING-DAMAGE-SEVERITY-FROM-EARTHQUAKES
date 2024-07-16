@@ -1,10 +1,11 @@
-#**PREDICTING BUILDING DAMAGE SEVERITY FROM EARTHQUAKES**
+**PREDICTING BUILDING DAMAGE SEVERITY FROM EARTHQUAKES**
 
-##**Data Overview**
+**Data Overview**
 
 The project revolves around a dataset containing detailed information about buildings affected by earthquakes. This dataset includes 762,106 entries and 31 columns, capturing structural characteristics and post-earthquake conditions of buildings. Each entry represents a specific building in the earthquake-affected region.
 
-Objective
+**Objective**
+------------
 The main objective of this analysis is to develop a robust classification model that accurately predicts the severity of damage to buildings following earthquakes. The model utilizes a range of structural and geographical features to differentiate between various damage grades.
 
 Steps Involved in the Project
