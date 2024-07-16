@@ -1,6 +1,7 @@
-**PREDICTING BUILDING DAMAGE SEVERITY FROM EARTHQUAKES**
+#**PREDICTING BUILDING DAMAGE SEVERITY FROM EARTHQUAKES**
 
-Data Overview
+##**Data Overview**
+
 The project revolves around a dataset containing detailed information about buildings affected by earthquakes. This dataset includes 762,106 entries and 31 columns, capturing structural characteristics and post-earthquake conditions of buildings. Each entry represents a specific building in the earthquake-affected region.
 
 Objective
